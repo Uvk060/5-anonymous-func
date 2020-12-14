@@ -8,7 +8,7 @@ import (
 func main() {
 	people := []string{"Alice", "Bob", "Dave"}
 	fruits := []string{"Banana", "Orange", "Apple"}
-	ex := []string{"bnklbnkl", "vjff", "kgf"}
+	ex := []string{"bankreal", "wtf", "kgf"}
 
 	fmt.Println(sortByLen(people))
 	sortByLenAndPrint(fruits)
